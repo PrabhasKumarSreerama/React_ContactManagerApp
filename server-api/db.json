@@ -1,0 +1,69 @@
+{
+  "contacts": [
+    {
+      "id": "98dc4804-089b-4414-8612-e3917944acbf",
+      "name": "teja",
+      "email": "teja@gmail.com"
+    },
+    {
+      "id": "e425ec06-4434-472e-9d66-6076886f27dd",
+      "name": "Ramana",
+      "email": "ramana@gmail.com"
+    },
+    {
+      "id": "4a265251-4055-4eeb-9506-4991c9cba7af",
+      "name": "Varun",
+      "email": "varun@gmail.com"
+    },
+    {
+      "id": "9f8cfba1-006a-4b88-9929-736ba71649f7",
+      "name": "Mahipal",
+      "email": "mahipal@gmail.com"
+    },
+    {
+      "id": "dfe21362-ee09-437f-94fa-2716926d975c",
+      "name": "Chakri",
+      "email": "chakri@gmail.com"
+    },
+    {
+      "id": "c300a5e8-7a7f-4b47-b57b-d9e605888e4b",
+      "name": "ramu",
+      "email": "ramu@gmail.com"
+    },
+    {
+      "id": "11f25d30-9ae6-46f0-956f-cee585acf222",
+      "name": "Charan",
+      "email": "charan@gmail.com"
+    },
+    {
+      "id": "584b8241-6207-4579-9b13-f95841e85992",
+      "name": "Abhilash",
+      "email": "abhilash@gmail.com"
+    },
+    {
+      "id": "724afc72-ca53-4a0e-bbb1-ecbebec5d0dd",
+      "name": "kiran",
+      "email": "Kiran@gmail.com"
+    },
+    {
+      "id": "eb699d08-aab1-47b8-80f6-6332c4b13cdc",
+      "name": "Hari Sujay",
+      "email": "harisujay@gmail.com"
+    },
+    {
+      "id": "a52d9df0-4e7d-48dd-91d9-09cae7335cba",
+      "name": "Test",
+      "email": "test@gmail.com"
+    },
+    {
+      "id": "d5d817f6-f070-4fb5-87af-b6f3892adef2",
+      "name": "HariSujay",
+      "email": "harisujay@gmail.com"
+    },
+    {
+      "id": "72f5feef-4bda-4546-b574-a553eafc33ae",
+      "name": "Mahipal",
+      "email": "mahipal@gmail.com"
+    }
+  ]
+}
